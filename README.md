@@ -1,5 +1,5 @@
 # Digitale Leistungen in 2033
-Studentische Entwürfe von Produkten und Dienstleistungen, entworfen mit Hilfe generativer künstlicher Intelligenz
+Studentische Entwürfe von Produkten und Dienstleistungen, entworfen mit Hilfe generativer künstlicher Intelligenz
 
 # Vorwort
 Im Dezember 2023 haben Studierenden des Wirtschaftsingenieurwesens und der Wirtschaftsinformatik an der CBS International Business School die nachfolgenden Bilder gestaltet.
