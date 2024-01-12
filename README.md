@@ -1,4 +1,4 @@
-![image](https://github.com/rachmann-alexander/digitaleleistungen2033/assets/98393837/4ed8c89f-c9cd-4b80-be87-ee4a41a827ea)# Digitale Leistungen in 2033
+# Digitale Leistungen in 2033
 Studentische Entwürfe von Produkten und Dienstleistungen, entworfen mit Hilfe generativer künstlicher Intelligenz
 
 # Vorwort
